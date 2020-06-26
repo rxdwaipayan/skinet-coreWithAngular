@@ -18,7 +18,7 @@ namespace API.Controllers
 
         public ProductsController(StoreContext datacontext)
         {
-            _datacontext = datacontext;
+            _datacontext = datacontext ;
         }
 
         [HttpGet]
