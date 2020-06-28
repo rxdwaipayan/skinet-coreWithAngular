@@ -1,0 +1,11 @@
+D:\Development\CorewithAngularAdvanced\repository\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+D:\Development\CorewithAngularAdvanced\repository\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Development\CorewithAngularAdvanced\repository\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+D:\Development\CorewithAngularAdvanced\repository\skinet\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+D:\Development\CorewithAngularAdvanced\repository\skinet\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\Development\CorewithAngularAdvanced\repository\skinet\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\Development\CorewithAngularAdvanced\repository\skinet\Infrastructure\bin\Debug\netstandard2.0\Core.dll
+D:\Development\CorewithAngularAdvanced\repository\skinet\Infrastructure\bin\Debug\netstandard2.0\Core.pdb
+D:\Development\CorewithAngularAdvanced\repository\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+D:\Development\CorewithAngularAdvanced\repository\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+D:\Development\CorewithAngularAdvanced\repository\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
