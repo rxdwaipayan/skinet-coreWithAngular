@@ -108,7 +108,6 @@ D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreap
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Development\CorewithAngularAdvanced\repository\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
@@ -126,3 +125,6 @@ D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreap
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\Core.pdb
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Development\CorewithAngularAdvanced\repository\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
