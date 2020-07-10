@@ -125,6 +125,11 @@ D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreap
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\Core.pdb
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-D:\Development\CorewithAngularAdvanced\repository\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Development\CorewithAngularAdvanced\repository\skinet\API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Development\CorewithAngularAdvanced\repository\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Development\CorewithAngularAdvanced\repository\skinet\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
